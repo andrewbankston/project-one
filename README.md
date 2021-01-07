@@ -18,6 +18,13 @@
 * Youtube API?
 * What age group responds better to click ads and how does that relate to business profit?
 
+##### Youtube API - Questions (Timeframe 2018 - 2020)
+###### Topics: Education, Political, Product Reviews
+Sample Questions:
+
+* Are these videos getting more views in 2020 vs. 2018 due to more remote learning?
+* What days/times gain the highest amount of activity in a week? (Or weeks/months out of a year)
+* What is the avg. rate of subscriptions?
 
 
 ### COVID-19 Resources
