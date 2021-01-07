@@ -1,14 +1,19 @@
 # project-one
 
-##### Youtube API - Questions (Timeframe 2018 - 2020)
-###### Topics: Education, Political, Product Reviews
-Sample Questions:
+### Youtube 
+##### Timeframe: 2018 - 2020
+##### Topics:
+* Education
+* Political
+* Product Reviews
+* Animal/Pet
 
+##### Sample Questions
 * Are these videos getting more views in 2020 vs. 2018 due to more remote learning?
 * What days/times gain the highest amount of activity in a week? (Or weeks/months out of a year)
 * What is the avg. rate of subscriptions?
 
-Metrics:
+##### Metrics:
 * Likes
 * Description
 * Video counts
@@ -16,11 +21,6 @@ Metrics:
 * Subscription counts
 * Amount spent on ads
 * ADD MORE! :D
-
-### COVID-19 Resources
-* https://github.com/M-Media-Group/Covid-19-API
-* https://data.world/resources/coronavirus/
-
 
 ----
 ## Loose Timeline
