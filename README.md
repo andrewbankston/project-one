@@ -26,6 +26,14 @@ Sample Questions:
 * What days/times gain the highest amount of activity in a week? (Or weeks/months out of a year)
 * What is the avg. rate of subscriptions?
 
+Metrics:
+* Likes
+* Description
+* Video counts
+* View counts
+* Subscription counts
+* Amount spent on ads
+* ADD MORE! :D
 
 ### COVID-19 Resources
 * https://github.com/M-Media-Group/Covid-19-API
