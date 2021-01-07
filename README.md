@@ -7,6 +7,12 @@
 * Have crime rates increased during covid?
 * covid rates increase/decrease based on transports/mobility increasing/decreasing.
 * related to the mental health idea, we could look at hospital triage data to see whether treatment of other conditions has decreased or deaths/severe effects have increased from those non-COVID conditions
+* What business industry has succeeded the most during covid and why?
+* Uber API? What are the best channels to market through?, what are the 'hot spots' for drivers to make the most money, based on turnaround time and distance?
+* Youtube API?
+* What age group responds better to click ads and how does that relate to business profit?
+
+
 
 ### COVID-19 Resources
 * https://github.com/M-Media-Group/Covid-19-API
