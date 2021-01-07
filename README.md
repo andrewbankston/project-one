@@ -34,8 +34,9 @@ Sample Questions:
 
 ----
 ## Loose Timeline
-1/6 - end of class
-* Determine a topic and scope
+<del>1/6 - end of class
+* <del>Determine a topic and scope
+* <del>Come up with team name
 
 1/8 - extra meeting
 * Outline code sections
