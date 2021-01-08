@@ -1,26 +1,28 @@
 # project-one
+# Documentation https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
+### Crash Data -  Chicago
+##### Timeframe: 2015-2021
 
-### Youtube 
-##### Timeframe: 2018 - 2020
-##### Topics:
-* Education
-* Political
-* Product Reviews
-* Animal/Pet
+##### Sample Questions/Types of Graphs
+* Cost of damage and type of injury
 
-##### Sample Questions
-* Are these videos getting more views in 2020 vs. 2018 due to more remote learning?
-* What days/times gain the highest amount of activity in a week? (Or weeks/months out of a year)
-* What is the avg. rate of subscriptions?
+* Crash type vs lighting
 
-##### Metrics:
-* Likes
-* Description
-* Video counts
-* View counts
-* Subscription counts
-* Amount spent on ads
-* ADD MORE! :D
+* Bar graph for first crash type
+
+* Frequency of crashes at specific time of day
+
+* Speed vs fatality count
+
+* Scatterplot outliers for lane count
+
+* Road condition vs type of road vs weather
+
+* Hit and run vs location (lat nad lng)
+
+* Time between when crash occurred and when police showed up. (compared to police stations near by)
+
+* Direction (NSEW) facing wrecks, more common than others
 
 ----
 ## Loose Timeline
