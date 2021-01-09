@@ -4,7 +4,7 @@
 ##### Timeframe: 2015-2021
 
 ##### Sample Questions/Types of Graphs
-* What ipacts crash type the most?
+* What impacts crash type the most?
 	* Crash type vs lighting
 	* Bar graph for first crash type
 	* Frequency of crashes at specific time of day
