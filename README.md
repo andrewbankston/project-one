@@ -4,25 +4,22 @@
 ##### Timeframe: 2015-2021
 
 ##### Sample Questions/Types of Graphs
-* Cost of damage and type of injury
+* What ipacts crash type the most?
+	* Crash type vs lighting
+	* Bar graph for first crash type
+	* Frequency of crashes at specific time of day
 
-* Crash type vs lighting
+* What type of injuries are caused by what types of crashes?
+	* Cost of damage and type of injury
+	* Speed vs fatality count
+	* Direction (NSEW) facing wrecks, more common than others
 
-* Bar graph for first crash type
-
-* Frequency of crashes at specific time of day
-
-* Speed vs fatality count
+* What types of wrecks occur based off location?
+	* Road condition vs type of road vs weather
+	* Hit and run vs location (lat nad lng), over time
+	* Time between when crash occurred and when police showed up. (compared to police stations near by)
 
 * Scatterplot outliers for lane count
-
-* Road condition vs type of road vs weather
-
-* Hit and run vs location (lat nad lng)
-
-* Time between when crash occurred and when police showed up. (compared to police stations near by)
-
-* Direction (NSEW) facing wrecks, more common than others
 
 ----
 ## Loose Timeline
