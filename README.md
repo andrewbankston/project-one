@@ -1,10 +1,11 @@
 # project-one
 # Documentation https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
+# weather API: https://www.climacell.co/weather-api/
 ### Crash Data -  Chicago
 ##### Timeframe: 2015-2021
 
 ##### Sample Questions/Types of Graphs
-* What ipacts crash type the most?
+* What impacts crash type the most?
 	* Crash type vs lighting
 	* Bar graph for first crash type
 	* Frequency of crashes at specific time of day
