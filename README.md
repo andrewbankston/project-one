@@ -28,17 +28,17 @@
 * <del>Determine a topic and scope
 * <del>Come up with team name
 
-1/8 - extra meeting
-* Outline code sections
-* Detail individual aspects of each section
-	* What external data sources do we need to pull in
-	* What charts and graphs are needed by the end of the section
-	* Create comment walkthrough of what needs to be accomplished
-	* Responsibilities?
+<del>1/8 - extra meeting
+* <del>Outline code sections
+* <del>Detail individual aspects of each section
+	* <del>What external data sources do we need to pull in
+	* <del>What charts and graphs are needed by the end of the section
+	* <del>Create comment walkthrough of what needs to be accomplished
+	* <del>Responsibilities?
 
-1/9 - end of class
-* Rough draft of code
-* Major questions answered
+<del>1/9 - end of class
+* <del>Rough draft of code
+* <del>Major questions answered
 
 1/11 - end of class
 * Code and charts completed
