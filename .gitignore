@@ -130,3 +130,8 @@ dmypy.json
 
 # User api keys
 config.py
+
+# Large CSVs
+
+/data/crash_data_2015-2018.csv
+/data/crash_data_2019-2021.csv
