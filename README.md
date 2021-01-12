@@ -40,10 +40,10 @@
 * <del>Rough draft of code
 * <del>Major questions answered
 
-1/11 - end of class
-* Code and charts completed
-* Outline of analysis
-* Individual responsibilities
+<del>1/11 - end of class
+* <del>Code and charts completed
+* <del>Outline of analysis
+* <del>Individual responsibilities
 
 1/13 - end of class
 * Analysis rough drafts
