@@ -1,6 +1,5 @@
 # project-one
-# Documentation https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
-# weather API: https://www.climacell.co/weather-api/
+### Documentation https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 ### Crash Data -  Chicago
 ##### Timeframe: 2015-2021
 
@@ -38,6 +37,14 @@
 3rd Plot: Speed Limit vs. # of Fatal Injuries
 
 -- A huge majority of fatal injuries proved to be in areas where the posted speed limit was 30mph. This could largely be due to the fact that people were speeding in residential areas which are prone to having more parked cars, dips, lights, stop signs, etc. as compared to areas with faster speed limits like freeways. 
+
+#### New Driver/High School Impact?
+###### Do more accidents occur close to local high schools?
+-- Many people begin to learn to drive in high school. We sought to examine a potential correlation between location of high schools and crash counts in Chicage. A heatmap of crash counts by location paired with the location of local high schools shows that although plenty of crashes occur near high schools, there are plenty of locations that experience a high frequency of accidents without a local high school nearby. Thus, we are unable to reject the null hypothesis. 
+
+#### Street Direction
+###### Does the direction of the street and time of day impact the number of crashes?
+-- Looking at Total Crashes per Street Direction (2015-2021), there is an alarmingly high disparity between the total number of accidents on Eastbound vs. Westbound roads. Over 4x more accidents happen on Westbound roads than Eastbound. We hypothesized Eastbound roads would show a slight spike in crash count earlier in the day possibly due to the rising sun. As well by the same logic, the crash count for Westbound roads would be higher in the evening due to the setting sun. The results were not able to reject the null hypothesis as Westbound roads outweigh Eastbound roads regardless of the time of day.
 
 ----
 ## Loose Timeline
