@@ -69,15 +69,16 @@
 * <del>Outline of analysis
 * <del>Individual responsibilities
 
-1/13 - end of class
-* Analysis rough drafts
-* Plan peer review
+<del>1/13 - end of class
+* <del>Analysis rough drafts
+* <del>Plan peer review
 
 1/14 - no meeting
-* Notify team of individual section completion
+* Work on powerpoint
 
 1/15 - extra meeting
 * One last "dummy check" meeting
 * Discuss presentation order/responsibilities
+* Any slides we can remove or 'breeze over'
 
 1/16 - Presentation
