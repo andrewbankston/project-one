@@ -28,7 +28,7 @@
 
 1st Plot: Cost of Damage group vs. Injuries Total (pie chart)
 
--- The cost of damage shows that the majority of injuries fall within the damage group of over $1500, at 57.6%, and the $500-1500 group taking up 29.4% of injuries. With that being said, only 13% of total injuries due to car wrecks ended up having a damage cost of less than $500.
+-- The cost of damage shows that the large majority of injuries fall within the damage group of over $1500, at 74.1%, and the $500-1500 group taking up 12.5% of injuries. With that being said, only 13.4% of total injuries due to car wrecks ended up having a damage cost of less than $500. More injuries result from car crashes that have higher costs of damage.
 
 2nd Plot: Cost of Damage vs. # of Fatal Injuries
 
@@ -36,7 +36,7 @@
 
 3rd Plot: Speed Limit vs. # of Fatal Injuries
 
--- A huge majority of fatal injuries proved to be in areas where the posted speed limit was 30mph. This could largely be due to the fact that people were speeding in residential areas which are prone to having more parked cars, dips, lights, stop signs, etc. as compared to areas with faster speed limits like freeways. 
+-- A huge number of fatal injuries proved to be in areas where the posted speed limit was 30mph. This could largely be due to the fact that people speed in residential areas which are prone to having more parked cars, dips, lights, stop signs, etc. as opposed to areas with faster speed limits like freeways where people are likely to be paying more attention as they are surrounded by others who are driving faster. As shown in the trafficway and injuries bar chart, the trafficway types which have the largest number of fatal injuries are on roads with undivided or unraised barriers and at intersections, which are typically the trafficway types you will find in areas that have lower posted speed limits.
 
 #### New Driver/High School Impact?
 ###### Do more accidents occur close to local high schools?
