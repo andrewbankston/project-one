@@ -73,12 +73,12 @@
 * <del>Analysis rough drafts
 * <del>Plan peer review
 
-1/14 - no meeting
-* Work on powerpoint
+<del>1/14 - no meeting
+* <del>Work on powerpoint
 
-1/15 - extra meeting
-* One last "dummy check" meeting
-* Discuss presentation order/responsibilities
-* Any slides we can remove or 'breeze over'
+<del>1/15 - extra meeting
+* <del>One last "dummy check" meeting
+* <del>Discuss presentation order/responsibilities
+* <del>Any slides we can remove or 'breeze over'
 
 1/16 - Presentation
