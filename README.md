@@ -5,17 +5,17 @@
 
 ##### Structure of Repository
 
-In the main repository folder, you can find:
+* In the main repository folder, you can find:
 	* The jupyter notebook used for analysis "Chicago_Crashes.ipynb"
 	* The final analysis document "Chicago_crash_analysis.docx"
 	* The final presentation file "Project-One-Crash-Data.pptx"
 	* The source data folder "data"
 	* The output data folder "output_data"
 
-In the "data" folder, you can find:
+* In the "data" folder, you can find:
 	* The two csv files combined to create the inital dataset on which our analysis is based "crash_data_2015-2018.csv" and "crash_data_2019-2021.csv"
 
-In the "output_data" folder, you can find:
+* In the "output_data" folder, you can find:
 	* png files for all graphs created in the jupyter notebook analysis
 	* two jpg files and one png file for screenshots of the heatmaps created in the jupyter notebook analysis
 	* one gif file showing the number of crashes in each cardinal direction at each hour in a 24 hour period
