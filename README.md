@@ -4,6 +4,7 @@
 ##### Timeframe: 2015-2021
 
 ##### Structure of Repository
+
 In the main repository folder, you can find:
 	* The jupyter notebook used for analysis "Chicago_Crashes.ipynb"
 	* The final analysis document "Chicago_crash_analysis.docx"
